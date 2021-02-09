@@ -1,0 +1,39 @@
+body{
+    font-family: 'Handlee';font-size: 16px;
+    background-color: black;
+}
+
+.post{
+    border-style: solid;
+    border-color: green;
+    background-color: white;
+    width: 450px;
+    height: 650px;
+}
+
+.post_menu{
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+}
+.post_img{
+    border-style: solid;
+    border-color: red;
+    background-color: white;
+}
+.post_content{
+    border-style: solid;
+    border-color: red;
+}
+.post_content_menu{
+    border-style: solid;
+    border-color: blueviolet;
+}
+.post_content_like{
+    border-style: solid;
+    border-color: orange;
+}
+.post_content_text{
+    border-style: solid;
+    border-color: blue;
+}
