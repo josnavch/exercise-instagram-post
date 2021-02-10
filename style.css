@@ -1,6 +1,7 @@
 body{
   
-    font-family: 'Handlee';font-size: 16px;
+    font-family: 'Handlee';
+    font-size: 16px;
     background-color: black;
     
 }
@@ -11,8 +12,8 @@ body{
     border-color: green;
     */
     background-color: white;
-    width: 600px;
-    height: 850px;
+    width: 490px;
+    height: 680px;
 }
 
 .post_menu{
@@ -83,6 +84,7 @@ body{
 }
 p {
     margin: 0px;
+    font-size: 14px;
 }
 .post_content_menu{
     /*
